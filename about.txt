@@ -1,0 +1,13 @@
+# 如果你是一个贡献者,请按照这种规则留下你的贡献和联系方式
+# 如果你的贡献太少,请斟酌是否需要留下你的贡献
+<div>
+<contributors>
+王创业
+</contributors>
+<contribute>
+开发baton软件的贡献者,有自己的微信公众号“与C同行”,欢迎关注
+</contribute>
+<email>
+3305703462@qq.com
+</email>
+</div>
